@@ -1,0 +1,21 @@
+<span id="a">kiranprasath@portflio</span>:<span id="b">~</span><span id="c">$</span> cd kiran/<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">kiranprasath@portflio</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->kiran.txt<br/><br/>
+Hi, I'm kiran prasath."<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+
+I'm a "NOC ENGINEERING"  based in Chennai, India.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am working in SAAS application company know as chargebee.</p>
+<span id="a">kiranprasath@portflio</span>:<span id="b">~</span><span id="c">$</span> <!-- kjsdfhkjdhsfkjdshfkj --> Skill <br/><br/>
+
+<p>I love to work with:</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> React,
+Python,
+C++,
+Wordpress,
+Click here to view my Cv
+<a href="link"> Cv</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>More about myself. <br><br><br>I am a passionate developer who have experience in Cloud computing, infra security and cyber security. 
+I am always eager to learn new things and work outside of my comfort zone. Currently learning AWS . <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Social Account, here: <br> <a href="https:https://www.instagram.com/akiranprasath/>Instagram</a> <br> <a href="https:https://www.linkedin.com/in/kiran-prasath-301858205/>LinkedIn</a> and <br> <a href="https://github.com/cb-kiranprasath">GitHub</a>.</p>
+
+Email ID Contact Me<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="aamudhan2000@gmail.com">Email</a>.
+
+<p>Welcome!</p>
