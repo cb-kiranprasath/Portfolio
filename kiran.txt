@@ -16,6 +16,6 @@ Click here to view my Cv
 I am always eager to learn new things and work outside of my comfort zone. Currently learning AWS . <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> Social Account, here: <br> <a href="https:https://www.instagram.com/akiranprasath/>Instagram</a> <br> <a href="https:https://www.linkedin.com/in/kiran-prasath-301858205/>LinkedIn</a> and <br> <a href="https://github.com/cb-kiranprasath">GitHub</a>.</p>
 
-Email ID Contact Me<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="aamudhan2000@gmail.com">Email</a>.
+Email ID Contact Me<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="akiranprasath47@gmail.com">Email</a>.
 
 <p>Welcome!</p>
